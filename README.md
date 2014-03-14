@@ -1,8 +1,8 @@
-ECE585_Project2
+Project2
 ===============
 
-Repository for ECE585 Processor design Project
+Repository for  Project 2
 
 Student Names:
-Pravin Tavagad
+Pravin Tavagad ,
 Aniket Sirsath
